@@ -1,0 +1,10 @@
+C:\Users\Daniel\source\repos\TesteEstagio\TesteEstagio\bin\Debug\TesteEstagio.exe.config
+C:\Users\Daniel\source\repos\TesteEstagio\TesteEstagio\bin\Debug\TesteEstagio.exe
+C:\Users\Daniel\source\repos\TesteEstagio\TesteEstagio\bin\Debug\TesteEstagio.pdb
+C:\Users\Daniel\source\repos\TesteEstagio\TesteEstagio\obj\Debug\TesteEstagio.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\source\repos\TesteEstagio\TesteEstagio\obj\Debug\TesteEstagio.CadastroCliente.resources
+C:\Users\Daniel\source\repos\TesteEstagio\TesteEstagio\obj\Debug\TesteEstagio.Properties.Resources.resources
+C:\Users\Daniel\source\repos\TesteEstagio\TesteEstagio\obj\Debug\TesteEstagio.csproj.GenerateResource.Cache
+C:\Users\Daniel\source\repos\TesteEstagio\TesteEstagio\obj\Debug\TesteEstagio.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\TesteEstagio\TesteEstagio\obj\Debug\TesteEstagio.exe
+C:\Users\Daniel\source\repos\TesteEstagio\TesteEstagio\obj\Debug\TesteEstagio.pdb
